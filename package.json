@@ -1,0 +1,24 @@
+{
+  "name": "obsidian-dungeon-master",
+  "version": "1.0.0",
+  "description": "An intelligent worldbuilding assistant and AI Dungeon Master powered by Google Gemini and local RAG. Play RPG campaigns right inside your notes.",
+  "author": "Estudio Solidify",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "builtin-modules": "3.3.0",
+    "esbuild": "0.17.3",
+    "esbuild-svelte": "^0.7.3",
+    "obsidian": "latest",
+    "svelte": "^3.55.0",
+    "svelte-preprocess": "^5.0.0",
+    "tslib": "2.4.0",
+    "typescript": "4.7.4"
+  }
+}

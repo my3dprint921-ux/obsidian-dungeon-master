@@ -1,0 +1,10 @@
+{
+	"id": "worldbuilding-assistant",
+	"name": "Obsidian Dungeon Master",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "An intelligent worldbuilding assistant and AI Dungeon Master powered by Google Gemini and local RAG. Play RPG campaigns right inside your notes.",
+	"author": "Estudio Solidify",
+	"authorUrl": "https://patreon.com/DungeonMaster465?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+	"isDesktopOnly": true
+}
